@@ -1,1 +1,1 @@
-# NextWordPrediction
+The LSTM project focuses on implementing a deep learning model for natural language processing using TensorFlow and Keras. It includes preprocessing textual data, tokenization, and training an LSTM-based neural network for text generation or classification tasks. The project demonstrates expertise in sequence modeling and the application of deep learning techniques to understand and generate human-like text.# NextWordPrediction
